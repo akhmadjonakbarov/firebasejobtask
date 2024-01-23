@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216844848225",
+    "project_id": "jobtask-dafb9",
+    "storage_bucket": "jobtask-dafb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216844848225:android:58f371f1b175508d3f2e20",
+        "android_client_info": {
+          "package_name": "com.example.firebasejobtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoR3fs5BhRNMlFIJnipLmI7z1unkTAcf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
